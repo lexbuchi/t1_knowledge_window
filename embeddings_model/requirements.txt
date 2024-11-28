@@ -1,0 +1,7 @@
+torch==2.4.1
+transformers==4.45.1
+transformers[sentencepiece]
+uvicorn
+sentence-transformers	
+fastapi[standard]
+

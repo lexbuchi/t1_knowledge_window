@@ -1,0 +1,6 @@
+langchain
+langchain-community
+pydantic
+jinja2
+requests
+openai

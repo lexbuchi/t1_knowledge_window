@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+langchain
+openai
+langgraph
+jinja2
+requests
+neo4j
+langchain-community
